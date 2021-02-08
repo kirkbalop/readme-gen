@@ -1,10 +1,14 @@
-# run buddy
+# Run Buddy
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/kirkbalop/github.com/kirkbalop/run-buddy?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/kirkbalop/github.com/kirkbalop/run-buddy?style=flat&logo=appveyor)
+  
+  Check out the badges hosted by [shields.io](https://shields.io/).
+  
   
   ## Description 
   
   *The what, why, and how:* 
   
-  run buddy
+  A project advertising a company connecting runners with buddies
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -15,13 +19,13 @@
   
   *Steps required to install project and how to get the development environment running:*
   
-  install correctly
+  Don't forget to install correctly
   
   ## Usage 
   
   *Instructions and examples for use:*
   
-  running with buddies
+  It's for connecting runners with buddies who are also probably runners
   
   ## License
   
