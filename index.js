@@ -103,6 +103,11 @@ const questions = [
             type: 'input',
             name: 'link',
             message: 'Please include a link to your deployed project'
+        },
+        {
+            type: 'input',
+            name: 'username',
+            message: 'What is your github username?'
         }
     ];
 
