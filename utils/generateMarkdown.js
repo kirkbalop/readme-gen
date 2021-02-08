@@ -118,5 +118,3 @@ function generateMarkdown(userResponses, userInfo) {
 }
 
 module.exports = generateMarkdown;
-
-module.exports = generateMarkdown;
