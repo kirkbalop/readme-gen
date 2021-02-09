@@ -86,6 +86,11 @@ const questions = [
             message: 'Who else, if anyone, contributed to this project? (Github usernames, please):'
         },
         {
+            type: 'input',
+            name: 'tests',
+            message: 'Provide relative links to any screenshots or demo video you wish to include.'
+        },
+        {
             type: "list",
             name: "license",
             message: "Chose the appropriate license for this project: ",
