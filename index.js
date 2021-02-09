@@ -81,6 +81,11 @@ const questions = [
             message: "What is this project usage for?"
         },
         {
+            type: 'input',
+            name: 'contributing',
+            message: 'Who else, if anyone, contributed to this project? (Github usernames, please):'
+        },
+        {
             type: "list",
             name: "license",
             message: "Chose the appropriate license for this project: ",
