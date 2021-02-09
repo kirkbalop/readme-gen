@@ -19,16 +19,16 @@ https://youtu.be/_fIArF8b5wk
 youtube link to demo video
 
 Initialization:
-<img src="./utils/images/rmg-init">
+<img src="./utils/images/rmg-init.png">
 
 Contents:
-<img src="./utils/images/rmg-content">
+<img src="./utils/images/rmg-content.png">
 
 Data collected:
-<img src="./utils/images/rmg-data">
+<img src="./utils/images/rmg-data.png">
 
 Printed Template Literal:
-<img src="./utils/images/rmg-template">
+<img src="./utils/images/rmg-template.png">
 
 
 
