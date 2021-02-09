@@ -1,4 +1,3 @@
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(userResponses, userInfo) {
 
@@ -13,6 +12,9 @@ function generateMarkdown(userResponses, userInfo) {
 
   if (userResponses.contributing !== '') { draftToC += `
   * [Contributing](#contributing)` };
+
+  if (userResponses.test !== '') { draftToC += `
+  *[Tests](#tests)` };
 
 
   // Generate markdown for the top required portions of the README
@@ -43,6 +45,14 @@ function generateMarkdown(userResponses, userInfo) {
   ${userResponses.install}`
   };
   
+  // Optional Test Section
+  if (userResponses.tests !== '') {
+    draftMarkdown +=
+    `
+    ## Tests
+    
+    ${userResponses.tests}`
+  };
 
   // Optional Usage section
   if (userResponses.usage !== '') {
