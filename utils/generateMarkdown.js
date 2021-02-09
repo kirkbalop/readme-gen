@@ -44,6 +44,17 @@ function generateMarkdown(userResponses, userInfo) {
   
   ${userResponses.install}`
   };
+
+  // Optional contributors section
+
+  if (userResponses.contributors !== '') {
+    draftMarkdown +=
+    `
+
+    ## Contributors
+    
+    ${userResponses.contributors}`
+  };
   
   // Optional Test Section
   if (userResponses.tests !== '') {
