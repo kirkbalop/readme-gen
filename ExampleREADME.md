@@ -1,21 +1,25 @@
-# Run Buddy
+# run buddy
  
   ## Description 
   
-  A project advertising a company connecting runners with buddies
+  run buddy
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
+  * [Tests](#tests)
   * [License](#license)
   
   ## Installation
   
-  Don't forget to install correctly
+  install correctly
+
+    ## Contributors
+    
+    undefined
   
   ## Usage 
   
-  It's for connecting runners with buddies who are also probably runners
+  running with buddies
   
   ## License
   

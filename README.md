@@ -1,8 +1,8 @@
 # README Generator
 
 ## Table of Contents:
--[Description/Usage](#description)
--[Tools](#tools)
+-[Description/Usage](#description)<br>
+-[Tools](#tools)<br>
 -[Demonstrations](#demo)
 
 
@@ -17,4 +17,18 @@ The program is written in Javascript and utilizes the "Inquirer" and "Axios" pac
 
 https://youtu.be/_fIArF8b5wk
 youtube link to demo video
+
+Initialization:
+<img src="./utils/images/rmg-init">
+
+Contents:
+<img src="./utils/images/rmg-content">
+
+Data collected:
+<img src="./utils/images/rmg-data">
+
+Printed Template Literal:
+<img src="./utils/images/rmg-template">
+
+
 
